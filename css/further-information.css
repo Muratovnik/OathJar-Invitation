@@ -1,0 +1,110 @@
+.further-information-wrapper{
+    padding-top: 80px;
+    padding-bottom: 20px;
+
+}
+
+@media (min-width: 1140px){
+	.further-information-wrapper{
+        background-image: url("img/illustrations/illustration.png");
+        background-repeat: no-repeat;
+        background-position: left 100px;
+        padding-top: 105px;
+        padding-bottom: 65px;
+        background-size: 530px auto;
+	}
+}
+
+@media (min-width: 1400px){
+	.further-information-wrapper{
+        background-image: url("img/illustrations/illustration.png");
+        background-repeat: no-repeat;
+        background-position: left 100px;
+        padding-top: 105px;
+        padding-bottom: 65px;
+        background-size: auto auto;
+	}
+}
+
+.illustration-mobile{
+    height: auto;
+    max-width: 100%;
+    padding-bottom: 50px;
+}
+
+@media (min-width: 1140px){
+	.illustration-mobile{
+        display: none;
+	}
+}
+
+
+
+.further-information-content{
+    width: 100%;
+    margin-left: auto;
+    color: rgba(13, 62, 96, .86);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.875;
+    margin-bottom: 40px;
+}
+
+@media (min-width: 1140px){
+	.further-information-content{
+	width: 555px;
+    margin-left: auto;
+    color: rgba(13, 62, 96, .86);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.875;
+    margin-bottom: 40px;
+	}
+}
+
+
+.title-2{
+    color: #0d3e60;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 35px;
+    margin-top: 0;
+}
+
+.checklist{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    padding-top: 15px;
+    margin-bottom: 60px;
+}
+
+.checklist li{
+    margin-bottom: 15px;
+    position: relative;
+    padding-left: 47px;
+
+}
+
+.checklist li::before{
+    content: "";
+    display: block;
+    width: 32px;
+    height: 29px;
+    background-image: url("img/icons/tickbox.svg");
+	background-repeat: no-repeat;
+    background-position: center;
+    left: 0;
+    top: 10px;
+    position: absolute;
+}
+
+.further-information-content p{
+    margin-bottom: 25px;
+
+}
+
