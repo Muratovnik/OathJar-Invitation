@@ -230,7 +230,7 @@ p{
 	border-radius: 50px;
 	z-index: 2;
 	position: absolute;
-	background-image: url("img/icons/arrow-down.svg");
+	background-image: url("../img/icons/arrow-down.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 }

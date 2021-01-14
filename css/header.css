@@ -8,7 +8,7 @@
 	padding-top     : 30px;
 	padding-bottom: 150px;
 
-	background-image   :  url(img/illustrations/illustration-header.png),
+	background-image   :  url(../img/illustrations/illustration-header.png),
                           linear-gradient(to top, #ffffff 0%, #fff9df 100%);
 	background-repeat  :  no-repeat;
 	background-position: center bottom, top left;
@@ -36,7 +36,7 @@
 	left: -15px;
 	top: 300px;
 
-	background-image   :  url(img/header/cloud_1.svg);
+	background-image   :  url(../img/header/cloud_1.svg);
 	background-repeat:  no-repeat;
 	background-position: center bottom, top left;
 	width: 118px;
@@ -48,7 +48,7 @@
 	right: -21px;
 	top: 263px;
 	
-	background-image   :  url(img/header/cloud_2.svg);
+	background-image   :  url(../img/header/cloud_2.svg);
 	background-repeat  :  no-repeat;
 	background-position: center bottom, top left;
 	width: 86px;
@@ -277,7 +277,7 @@
 	height: 60px;
 	background-color: #ed543a;
 	border-radius: 60px;
-	background-image: url("img/icons/icon-heart.svg");
+	background-image: url("../img/icons/icon-heart.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 30px auto;
@@ -293,7 +293,7 @@
 		height: 91px;
 		background-color: #ed543a;
 		border-radius: 60px;
-		background-image: url("img/icons/icon-heart.svg");
+		background-image: url("../img/icons/icon-heart.svg");
 		background-repeat: no-repeat;
 		background-position: center;
 		position: absolute;
@@ -393,7 +393,7 @@
 	position: absolute;
 	left: -23px;
 	top: -28px;
-	background-image: url("img/header/left_scroll.svg");
+	background-image: url("../img/header/left_scroll.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -418,7 +418,7 @@
 	position: absolute;
 	top: -28px;
 	right: -23px;
-	background-image: url("img/header/right_scroll.svg");
+	background-image: url("../img/header/right_scroll.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -477,7 +477,7 @@
 	border-radius: 50px;
 	z-index: 2;
 	position: absolute;
-	background-image: url("img/icons/arrow-down.svg");
+	background-image: url("../img/icons/arrow-down.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 }

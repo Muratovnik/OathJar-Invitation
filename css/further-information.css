@@ -6,7 +6,7 @@
 
 @media (min-width: 1140px){
 	.further-information-wrapper{
-        background-image: url("img/illustrations/illustration.png");
+        background-image: url("../img/illustrations/illustration.png");
         background-repeat: no-repeat;
         background-position: left 100px;
         padding-top: 105px;
@@ -17,7 +17,7 @@
 
 @media (min-width: 1400px){
 	.further-information-wrapper{
-        background-image: url("img/illustrations/illustration.png");
+        background-image: url("../img/illustrations/illustration.png");
         background-repeat: no-repeat;
         background-position: left 100px;
         padding-top: 105px;
@@ -95,7 +95,7 @@
     display: block;
     width: 32px;
     height: 29px;
-    background-image: url("img/icons/tickbox.svg");
+    background-image: url("../img/icons/tickbox.svg");
 	background-repeat: no-repeat;
     background-position: center;
     left: 0;
